@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Kyriakos — a programmer mainly focused on **Python**, with experience in **web development** using Node.js, EJS, JavaScript, HTML, and CSS.  <br>I also develop for **FiveM**, working with the **ESX framework**, creating scripts and **MLOs** for roleplay servers.<br>
+👋 Hi, I'm Kyriakos — a programmer mainly focused on **Python**, with experience in **web development** using Node.js, JavaScript, HTML, and CSS.  <br>I also develop for **FiveM**, working with the **ESX framework**, creating scripts and **MLOs** for roleplay servers.<br>
 
 
 # 💻 Tech Stack:
